@@ -6,6 +6,9 @@
     "underscore": "",
     "backbone": "",
     "hbsfy": "",
-    "handlebars":""
+    "handlebars": ""
+  },
+  "devDependencies": {
+    "minifyify": "^6.3.2"
   }
 }
