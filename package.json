@@ -5,6 +5,7 @@
     "jquery": "",
     "underscore": "",
     "backbone": "",
-    "hbsfy": ""
+    "hbsfy": "",
+    "handlebars":""
   }
 }
