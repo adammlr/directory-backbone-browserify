@@ -10,7 +10,7 @@ var PageSlider = require('./utils/pageslider'),
     EmployeeView = require('./views/Employee'),
     ReportsView = require('./views/Reports'),
     models = require('./models/memory/employee'),
-    slider = new PageSlider($('body')),
+    slider = new PageSlider($('#sampleAppContainer')),
     homeView = new HomeView();
 
 module.exports = Backbone.Router.extend({
